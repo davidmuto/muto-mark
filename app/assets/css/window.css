@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #333;
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.window__content {
+  margin: 30px;
+  padding: 20px 45px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  word-wrap: break-word;
+}
